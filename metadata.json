@@ -1,0 +1,6 @@
+{
+  "name": "LocalStream",
+  "description": "Responsive Android-style media streaming application with server management, file explorer, player, renderers, and ADB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

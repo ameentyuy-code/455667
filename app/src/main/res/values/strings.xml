@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocalStream</string>
+    <string name="nav_my_server">My Server</string>
+    <string name="nav_file_manager">File Manager</string>
+    <string name="nav_player">Player</string>
+    <string name="nav_renderers">Renderers</string>
+    <string name="nav_adb">Adb</string>
+</resources>
